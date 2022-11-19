@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define HASH_SIZE 71
+#define HASH_SIZE 1201
 
 typedef struct arr {
     long n;
